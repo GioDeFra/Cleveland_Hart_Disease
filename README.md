@@ -38,7 +38,7 @@ Integer Variables:
 • Thalach: Maximum heart rate achieved during the test.
 
 • Oldpeak: ST depression level induced by exercise relative to rest.
-
+Ciao ciao ciao 
 • Ca: Number of major vessels colored during fluoroscopy.
 
 • Num: The target variable, representing the diagnosis of heart disease. It goes from to 0 to 4.
