@@ -42,5 +42,3 @@ Ciao ciao ciao
 • Ca: Number of major vessels colored during fluoroscopy.
 
 • Num: The target variable, representing the diagnosis of heart disease. It goes from to 0 to 4.
-
-Contatct
