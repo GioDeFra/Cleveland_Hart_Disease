@@ -1,4 +1,4 @@
-# Cleveland_Hart_Disease
+# Cleveland_Heart_Disease
 The goal of this analysis is to create a linear classification model and a non-linear method that detects if a patient has a heart disease.
 
 The data comes from the UC Irvine Machine Learning Repository.
